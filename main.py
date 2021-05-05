@@ -1,4 +1,4 @@
-print("Welcome to Chris21's YouTube Downloader and Converter v0.1 Alpha")
+print("Welcome to Chris21's YouTube Downloader and Converter v0.2 Alpha")
 print("Loading...")
 
 import pytube
@@ -12,7 +12,7 @@ What do you want?
 (3) Download YouTube Videos and Convert Into MP3
 Downloading copyrighted YouTube videos is illegal!
 I am not responsible for your downloads! Go at your own risk!
-Copyright (c) Chris21 2020
+Copyright (c) Chris21 2021
 ''')
 
 choice = input("Choice: ")
